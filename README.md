@@ -1,4 +1,4 @@
-# azure-openai-chatbot
+
 # Azure OpenAI Chatbot
 
 Este é um chatbot simples que utiliza a API do Azure OpenAI para gerar respostas com base nas perguntas do usuário.
